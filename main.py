@@ -3,6 +3,7 @@
 from scrape_player_info import scrape_player_info
 from scrape_statistics import *
 from data_cleaning import *
+from global_variables import *
 
 
 def main():

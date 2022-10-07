@@ -9,8 +9,8 @@ from global_variables import *
 def main():
     # impute_special_char(scrape_statistics(), "_")
     # change_col_types
-    print(scrape_statistics())
-    print(scrape_player_info())
+    df = scrape_statistics()
+    player_info = scrape_player_info()
 
 
 if __name__ == "__main__":

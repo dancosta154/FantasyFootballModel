@@ -3,7 +3,7 @@
 from scrape_player_info import scrape_player_info
 from scrape_statistics import *
 from data_cleaning import *
-from scrape_weather import *
+from global_variables import *
 
 
 def main():
@@ -11,6 +11,7 @@ def main():
     # change_col_types
     df = scrape_statistics()
     player_info = scrape_player_info()
+
 
 if __name__ == "__main__":
     main()

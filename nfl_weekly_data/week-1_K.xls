@@ -28,7 +28,7 @@
 <meta property="og:site_name" content="CBSSports.com">
 <meta property="og:title" content="2022 NFL Live Scoring Leaders - Week 1">
 <meta property="og:description" content="Get the latest NFL live scoring leaders throughout Week 1. Play fantasy football, follow players from around the NFL, and more from CBSSports.com.">
-    <meta property="og:image" content="https://sportsfly.cbsistatic.com/fly-0322/bundles/sportsmediacss/images/fantasy/default-article-image-large.png">
+    <meta property="og:image" content="https://sportsfly.cbsistatic.com/fly-0332/bundles/sportsmediacss/images/fantasy/default-article-image-large.png">
 <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.cbssports.com/nfl/stats/leaders/live/K/1/">
 <meta property="fb:pages" content="25902406772">
@@ -45,7 +45,7 @@
 <meta content="@cbssports" name="twitter:creator">
 <meta content="2022 NFL Live Scoring Leaders - Week 1 - CBSSports.com" name="twitter:title">
 <meta content="Get the latest NFL live scoring leaders throughout Week 1. Play fantasy football, follow players from around the NFL, and more from CBSSports.com." name="twitter:description">
-<meta content="https://sportsfly.cbsistatic.com/fly-0322/bundles/sportsmediacss/images/fantasy/default-article-image-large.png" name="twitter:image">
+<meta content="https://sportsfly.cbsistatic.com/fly-0332/bundles/sportsmediacss/images/fantasy/default-article-image-large.png" name="twitter:image">
 <meta content="CBSSports.com features live scoring and news for NFL football, MLB baseball, NBA basketball, NHL hockey, college basketball and football. CBSSports.com is also your source for fantasy sports news." name="msapplication-tooltip">
 <meta content="https://www.cbssports.com/" name="msapplication-starturl">
 <meta content="width=1024;height=768" name="msapplication-window">
@@ -65,15 +65,15 @@
 <link rel="icon" type="image/x-icon" href="/favicon.ico">
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="blue">
 
-    <link rel="apple-touch-icon" href="https://sportsfly.cbsistatic.com/fly-0322/bundles/sportsmediacss/images/core/webclips/touch-icon-iphone.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="https://sportsfly.cbsistatic.com/fly-0322/bundles/sportsmediacss/images/core/webclips/touch-icon-ipad.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="https://sportsfly.cbsistatic.com/fly-0322/bundles/sportsmediacss/images/core/webclips/touch-icon-iphone-retina.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="https://sportsfly.cbsistatic.com/fly-0322/bundles/sportsmediacss/images/core/webclips/touch-icon-ipad-retina.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="https://sportsfly.cbsistatic.com/fly-0322/bundles/sportsmediacss/images/core/webclips/apple-touch-icon-180.png">
+    <link rel="apple-touch-icon" href="https://sportsfly.cbsistatic.com/fly-0332/bundles/sportsmediacss/images/core/webclips/touch-icon-iphone.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="https://sportsfly.cbsistatic.com/fly-0332/bundles/sportsmediacss/images/core/webclips/touch-icon-ipad.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="https://sportsfly.cbsistatic.com/fly-0332/bundles/sportsmediacss/images/core/webclips/touch-icon-iphone-retina.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://sportsfly.cbsistatic.com/fly-0332/bundles/sportsmediacss/images/core/webclips/touch-icon-ipad-retina.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://sportsfly.cbsistatic.com/fly-0332/bundles/sportsmediacss/images/core/webclips/apple-touch-icon-180.png">
     
-                    <link rel="stylesheet" href="https://sportsfly.cbsistatic.com/fly-0322/bundles/sportsmediacss/css/v2/default.css">
+                    <link rel="stylesheet" href="https://sportsfly.cbsistatic.com/fly-0332/bundles/sportsmediacss/css/v2/default.css">
 
-            <link rel="stylesheet" href="https://sportsfly.cbsistatic.com/fly-0322/bundles/sportsmediacss/css/v2/pages/live-leaders/live-leaders.css">
+            <link rel="stylesheet" href="https://sportsfly.cbsistatic.com/fly-0332/bundles/sportsmediacss/css/v2/pages/live-leaders/live-leaders.css">
         
                     <script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="a60e161f-a66d-414e-adaa-217c83fc6ae0"></script>
 <script id="bb-cbsoptanon" src="https://production-cmp.isgprivacy.cbsi.com/dist/optanon-v1.1.0.js" type="text/javascript" async></script>
@@ -131,11 +131,11 @@
     });
 </script>
     
-        <script type="text/javascript" src="https://sportsfly.cbsistatic.com/fly-0322/bundles/sportsmediajs/js-build/libs/require-2.3.5.js"></script>
+        <script type="text/javascript" src="https://sportsfly.cbsistatic.com/fly-0332/bundles/sportsmediajs/js-build/libs/require-2.3.5.js"></script>
 <script type="text/javascript">
 
             
-    require.config({"baseUrl":"https:\/\/sportsfly.cbsistatic.com\/fly-0322\/bundles\/sportsmediajs\/js-build","config":{"version":{"fly\/components\/accordion":"1.0","fly\/components\/alert":"1.0","fly\/components\/base":"1.0","fly\/components\/carousel":"1.0","fly\/components\/dropdown":"1.0","fly\/components\/fixate":"1.0","fly\/components\/form-validate":"1.0","fly\/components\/image-gallery":"1.0","fly\/components\/iframe-messenger":"1.0","fly\/components\/load-more":"1.0","fly\/components\/load-more-article":"1.0","fly\/components\/load-more-scroll":"1.0","fly\/components\/loading":"1.0","fly\/components\/modal":"1.0","fly\/components\/modal-iframe":"1.0","fly\/components\/network-bar":"1.0","fly\/components\/poll":"1.0","fly\/components\/search-player":"1.0","fly\/components\/social-button":"1.0","fly\/components\/social-counts":"1.0","fly\/components\/social-links":"1.0","fly\/components\/tabs":"1.0","fly\/components\/video":"1.0","fly\/libs\/easy-xdm":"2.4.17.1","fly\/libs\/jquery.cookie":"1.2","fly\/libs\/jquery.throttle-debounce":"1.1","fly\/libs\/jquery.widget":"1.9.2","fly\/libs\/omniture.s-code":"1.0","fly\/utils\/jquery-mobile-init":"1.0","fly\/libs\/jquery.mobile":"1.3.2","fly\/libs\/backbone":"1.0.0","fly\/libs\/underscore":"1.5.1","fly\/libs\/jquery.easing":"1.3","fly\/managers\/ad":"2.0","fly\/managers\/components":"1.0","fly\/managers\/cookie":"1.0","fly\/managers\/debug":"1.0","fly\/managers\/geo":"1.0","fly\/managers\/gpt":"4.3","fly\/managers\/history":"2.0","fly\/managers\/madison":"1.0","fly\/managers\/social-authentication":"1.0","fly\/utils\/data-prefix":"1.0","fly\/utils\/data-selector":"1.0","fly\/utils\/function-natives":"1.0","fly\/utils\/guid":"1.0","fly\/utils\/log":"1.0","fly\/utils\/object-helper":"1.0","fly\/utils\/string-helper":"1.0","fly\/utils\/string-vars":"1.0","fly\/utils\/url-helper":"1.0","libs\/jshashtable":"2.1","libs\/select2":"3.5.1","libs\/jsonp":"2.4.0","libs\/jquery\/mobile":"1.4.5","libs\/modernizr.custom":"2.6.2","libs\/velocity":"1.2.2","libs\/dataTables":"1.10.6","libs\/dataTables.fixedColumns":"3.0.4","libs\/dataTables.fixedHeader":"2.1.2","libs\/dateformat":"1.0.3","libs\/waypoints\/infinite":"3.1.1","libs\/waypoints\/inview":"3.1.1","libs\/waypoints\/jquery.waypoints":"3.1.1","libs\/waypoints\/sticky":"3.1.1","libs\/jquery\/dotdotdot":"1.6.1","libs\/jquery\/flexslider":"2.1","libs\/jquery\/lazyload":"1.9.3","libs\/jquery\/maskedinput":"1.3.1","libs\/jquery\/marquee":"1.3.1","libs\/jquery\/numberformatter":"1.2.3","libs\/jquery\/placeholder":"0.2.4","libs\/jquery\/scrollbar":"0.1.6","libs\/jquery\/tablesorter":"2.0.5","libs\/jquery\/touchswipe":"1.6.18","libs\/jquery\/ui\/jquery.ui.core":"1.11.4","libs\/jquery\/ui\/jquery.ui.draggable":"1.11.4","libs\/jquery\/ui\/jquery.ui.mouse":"1.11.4","libs\/jquery\/ui\/jquery.ui.position":"1.11.4","libs\/jquery\/ui\/jquery.ui.slider":"1.11.4","libs\/jquery\/ui\/jquery.ui.sortable":"1.11.4","libs\/jquery\/ui\/jquery.ui.touch-punch":"0.2.3","libs\/jquery\/ui\/jquery.ui.autocomplete":"1.11.4","libs\/jquery\/ui\/jquery.ui.accordion":"1.11.4","libs\/jquery\/ui\/jquery.ui.tabs":"1.11.4","libs\/jquery\/ui\/jquery.ui.menu":"1.11.4","libs\/jquery\/ui\/jquery.ui.dialog":"1.11.4","libs\/jquery\/ui\/jquery.ui.resizable":"1.11.4","libs\/jquery\/ui\/jquery.ui.button":"1.11.4","libs\/jquery\/ui\/jquery.ui.tooltip":"1.11.4","libs\/jquery\/ui\/jquery.ui.effects":"1.11.4","libs\/jquery\/ui\/jquery.ui.datepicker":"1.11.4"}},"shim":{"liveconnection\/managers\/connection":{"deps":["liveconnection\/libs\/sockjs-0.3.4"]},"liveconnection\/libs\/sockjs-0.3.4":{"exports":"SockJS"},"libs\/setValueFromArray":{"exports":"set"},"libs\/getValueFromArray":{"exports":"get"},"fly\/libs\/jquery.mobile-1.3.2":["version!fly\/utils\/jquery-mobile-init"],"libs\/backbone.marionette":{"deps":["jquery","version!fly\/libs\/underscore","version!fly\/libs\/backbone"],"exports":"Marionette"},"fly\/libs\/underscore-1.5.1":{"exports":"_"},"fly\/libs\/backbone-1.0.0":{"deps":["version!fly\/libs\/underscore","jquery"],"exports":"Backbone"},"libs\/jquery\/ui\/jquery.ui.tabs-1.11.4":["jquery","version!libs\/jquery\/ui\/jquery.ui.core","version!fly\/libs\/jquery.widget"],"libs\/jquery\/flexslider-2.1":["jquery"],"libs\/dataTables.fixedColumns-3.0.4":["jquery","version!libs\/dataTables"],"libs\/dataTables.fixedHeader-2.1.2":["jquery","version!libs\/dataTables"],"https:\/\/sports.cbsimg.net\/js\/CBSi\/app\/VideoPlayer\/AdobePass-min.js":["https:\/\/sports.cbsimg.net\/js\/CBSi\/util\/Utils-min.js"]},"map":{"*":{"adobe-pass":"https:\/\/sports.cbsimg.net\/js\/CBSi\/app\/VideoPlayer\/AdobePass-min.js","facebook":"https:\/\/connect.facebook.net\/en_US\/sdk.js","facebook-debug":"https:\/\/connect.facebook.net\/en_US\/all\/debug.js","google":"https:\/\/apis.google.com\/js\/plusone.js","google-platform":"https:\/\/apis.google.com\/js\/client:platform.js","google-csa":"https:\/\/www.google.com\/adsense\/search\/async-ads.js","google-javascript-api":"https:\/\/www.google.com\/jsapi","google-client-api":"https:\/\/apis.google.com\/js\/api:client.js","gpt":"https:\/\/securepubads.g.doubleclick.net\/tag\/js\/gpt.js","hlsjs":"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hls.js\/1.0.7\/hls.js","recaptcha":"https:\/\/www.google.com\/recaptcha\/api.js?onload=loadRecaptcha&render=explicit","recaptcha_ajax":"https:\/\/www.google.com\/recaptcha\/api\/js\/recaptcha_ajax.js","supreme-golf":"https:\/\/sgapps-staging.supremegolf.com\/search\/assets\/js\/bundle.js","taboola":"https:\/\/cdn.taboola.com\/libtrc\/cbsinteractive-cbssports\/loader.js","twitter":"https:\/\/platform.twitter.com\/widgets.js","video-avia":"https:\/\/vidtech.cbsinteractive.com\/avia-js\/2.4.0\/player\/avia.min.js","video-avia-ui":"https:\/\/vidtech.cbsinteractive.com\/avia-js\/2.4.0\/plugins\/ui\/avia.ui.min.js","video-avia-gam":"https:\/\/vidtech.cbsinteractive.com\/avia-js\/2.4.0\/plugins\/gam\/avia.gam.min.js","video-avia-hls":"https:\/\/vidtech.cbsinteractive.com\/avia-js\/2.4.0\/plugins\/hls\/avia.hls.min.js","video-avia-playlist":"https:\/\/vidtech.cbsinteractive.com\/avia-js\/2.4.0\/plugins\/playlist\/avia.playlist.min.js","video-ima3":"https:\/\/imasdk.googleapis.com\/js\/sdkloader\/ima3.js","video-ima3-dai":"https:\/\/imasdk.googleapis.com\/js\/sdkloader\/ima3_dai.js","video-utils":"https:\/\/sports.cbsimg.net\/js\/CBSi\/util\/Utils-min.js","video-vast-tracking":"https:\/\/vidtech.cbsinteractive.com\/sb55\/vast-js\/vtg-vast-client.js"}},"waitSeconds":300});
+    require.config({"baseUrl":"https:\/\/sportsfly.cbsistatic.com\/fly-0332\/bundles\/sportsmediajs\/js-build","config":{"version":{"fly\/components\/accordion":"1.0","fly\/components\/alert":"1.0","fly\/components\/base":"1.0","fly\/components\/carousel":"1.0","fly\/components\/dropdown":"1.0","fly\/components\/fixate":"1.0","fly\/components\/form-validate":"1.0","fly\/components\/image-gallery":"1.0","fly\/components\/iframe-messenger":"1.0","fly\/components\/load-more":"1.0","fly\/components\/load-more-article":"1.0","fly\/components\/load-more-scroll":"1.0","fly\/components\/loading":"1.0","fly\/components\/modal":"1.0","fly\/components\/modal-iframe":"1.0","fly\/components\/network-bar":"1.0","fly\/components\/poll":"1.0","fly\/components\/search-player":"1.0","fly\/components\/social-button":"1.0","fly\/components\/social-counts":"1.0","fly\/components\/social-links":"1.0","fly\/components\/tabs":"1.0","fly\/components\/video":"1.0","fly\/libs\/easy-xdm":"2.4.17.1","fly\/libs\/jquery.cookie":"1.2","fly\/libs\/jquery.throttle-debounce":"1.1","fly\/libs\/jquery.widget":"1.9.2","fly\/libs\/omniture.s-code":"1.0","fly\/utils\/jquery-mobile-init":"1.0","fly\/libs\/jquery.mobile":"1.3.2","fly\/libs\/backbone":"1.0.0","fly\/libs\/underscore":"1.5.1","fly\/libs\/jquery.easing":"1.3","fly\/managers\/ad":"2.0","fly\/managers\/components":"1.0","fly\/managers\/cookie":"1.0","fly\/managers\/debug":"1.0","fly\/managers\/geo":"1.0","fly\/managers\/gpt":"4.3","fly\/managers\/history":"2.0","fly\/managers\/madison":"1.0","fly\/managers\/social-authentication":"1.0","fly\/utils\/data-prefix":"1.0","fly\/utils\/data-selector":"1.0","fly\/utils\/function-natives":"1.0","fly\/utils\/guid":"1.0","fly\/utils\/log":"1.0","fly\/utils\/object-helper":"1.0","fly\/utils\/string-helper":"1.0","fly\/utils\/string-vars":"1.0","fly\/utils\/url-helper":"1.0","libs\/jshashtable":"2.1","libs\/select2":"3.5.1","libs\/jsonp":"2.4.0","libs\/jquery\/mobile":"1.4.5","libs\/modernizr.custom":"2.6.2","libs\/velocity":"1.2.2","libs\/dataTables":"1.10.6","libs\/dataTables.fixedColumns":"3.0.4","libs\/dataTables.fixedHeader":"2.1.2","libs\/dateformat":"1.0.3","libs\/waypoints\/infinite":"3.1.1","libs\/waypoints\/inview":"3.1.1","libs\/waypoints\/jquery.waypoints":"3.1.1","libs\/waypoints\/sticky":"3.1.1","libs\/jquery\/dotdotdot":"1.6.1","libs\/jquery\/flexslider":"2.1","libs\/jquery\/lazyload":"1.9.3","libs\/jquery\/maskedinput":"1.3.1","libs\/jquery\/marquee":"1.3.1","libs\/jquery\/numberformatter":"1.2.3","libs\/jquery\/placeholder":"0.2.4","libs\/jquery\/scrollbar":"0.1.6","libs\/jquery\/tablesorter":"2.0.5","libs\/jquery\/touchswipe":"1.6.18","libs\/jquery\/ui\/jquery.ui.core":"1.11.4","libs\/jquery\/ui\/jquery.ui.draggable":"1.11.4","libs\/jquery\/ui\/jquery.ui.mouse":"1.11.4","libs\/jquery\/ui\/jquery.ui.position":"1.11.4","libs\/jquery\/ui\/jquery.ui.slider":"1.11.4","libs\/jquery\/ui\/jquery.ui.sortable":"1.11.4","libs\/jquery\/ui\/jquery.ui.touch-punch":"0.2.3","libs\/jquery\/ui\/jquery.ui.autocomplete":"1.11.4","libs\/jquery\/ui\/jquery.ui.accordion":"1.11.4","libs\/jquery\/ui\/jquery.ui.tabs":"1.11.4","libs\/jquery\/ui\/jquery.ui.menu":"1.11.4","libs\/jquery\/ui\/jquery.ui.dialog":"1.11.4","libs\/jquery\/ui\/jquery.ui.resizable":"1.11.4","libs\/jquery\/ui\/jquery.ui.button":"1.11.4","libs\/jquery\/ui\/jquery.ui.tooltip":"1.11.4","libs\/jquery\/ui\/jquery.ui.effects":"1.11.4","libs\/jquery\/ui\/jquery.ui.datepicker":"1.11.4"}},"shim":{"liveconnection\/managers\/connection":{"deps":["liveconnection\/libs\/sockjs-0.3.4"]},"liveconnection\/libs\/sockjs-0.3.4":{"exports":"SockJS"},"libs\/setValueFromArray":{"exports":"set"},"libs\/getValueFromArray":{"exports":"get"},"fly\/libs\/jquery.mobile-1.3.2":["version!fly\/utils\/jquery-mobile-init"],"libs\/backbone.marionette":{"deps":["jquery","version!fly\/libs\/underscore","version!fly\/libs\/backbone"],"exports":"Marionette"},"fly\/libs\/underscore-1.5.1":{"exports":"_"},"fly\/libs\/backbone-1.0.0":{"deps":["version!fly\/libs\/underscore","jquery"],"exports":"Backbone"},"libs\/jquery\/ui\/jquery.ui.tabs-1.11.4":["jquery","version!libs\/jquery\/ui\/jquery.ui.core","version!fly\/libs\/jquery.widget"],"libs\/jquery\/flexslider-2.1":["jquery"],"libs\/dataTables.fixedColumns-3.0.4":["jquery","version!libs\/dataTables"],"libs\/dataTables.fixedHeader-2.1.2":["jquery","version!libs\/dataTables"],"https:\/\/sports.cbsimg.net\/js\/CBSi\/app\/VideoPlayer\/AdobePass-min.js":["https:\/\/sports.cbsimg.net\/js\/CBSi\/util\/Utils-min.js"]},"map":{"*":{"adobe-pass":"https:\/\/sports.cbsimg.net\/js\/CBSi\/app\/VideoPlayer\/AdobePass-min.js","facebook":"https:\/\/connect.facebook.net\/en_US\/sdk.js","facebook-debug":"https:\/\/connect.facebook.net\/en_US\/all\/debug.js","google":"https:\/\/apis.google.com\/js\/plusone.js","google-platform":"https:\/\/apis.google.com\/js\/client:platform.js","google-csa":"https:\/\/www.google.com\/adsense\/search\/async-ads.js","google-javascript-api":"https:\/\/www.google.com\/jsapi","google-client-api":"https:\/\/apis.google.com\/js\/api:client.js","gpt":"https:\/\/securepubads.g.doubleclick.net\/tag\/js\/gpt.js","hlsjs":"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hls.js\/1.0.7\/hls.js","recaptcha":"https:\/\/www.google.com\/recaptcha\/api.js?onload=loadRecaptcha&render=explicit","recaptcha_ajax":"https:\/\/www.google.com\/recaptcha\/api\/js\/recaptcha_ajax.js","supreme-golf":"https:\/\/sgapps-staging.supremegolf.com\/search\/assets\/js\/bundle.js","taboola":"https:\/\/cdn.taboola.com\/libtrc\/cbsinteractive-cbssports\/loader.js","twitter":"https:\/\/platform.twitter.com\/widgets.js","video-avia":"https:\/\/vidtech.cbsinteractive.com\/avia-js\/2.4.0\/player\/avia.min.js","video-avia-ui":"https:\/\/vidtech.cbsinteractive.com\/avia-js\/2.4.0\/plugins\/ui\/avia.ui.min.js","video-avia-gam":"https:\/\/vidtech.cbsinteractive.com\/avia-js\/2.4.0\/plugins\/gam\/avia.gam.min.js","video-avia-hls":"https:\/\/vidtech.cbsinteractive.com\/avia-js\/2.4.0\/plugins\/hls\/avia.hls.min.js","video-avia-playlist":"https:\/\/vidtech.cbsinteractive.com\/avia-js\/2.4.0\/plugins\/playlist\/avia.playlist.min.js","video-ima3":"https:\/\/imasdk.googleapis.com\/js\/sdkloader\/ima3.js","video-ima3-dai":"https:\/\/imasdk.googleapis.com\/js\/sdkloader\/ima3_dai.js","video-utils":"https:\/\/sports.cbsimg.net\/js\/CBSi\/util\/Utils-min.js","video-vast-tracking":"https:\/\/vidtech.cbsinteractive.com\/sb55\/vast-js\/vtg-vast-client.js"}},"waitSeconds":300});
 
         
 </script>
@@ -162,7 +162,7 @@
             });
         });
     </script>
-                        <script src="https://sportsfly.cbsistatic.com/fly-0322/bundles/sportsmediajs/js-build/fly/libs/guid-1.0.js"></script>
+                        <script src="https://sportsfly.cbsistatic.com/fly-0332/bundles/sportsmediajs/js-build/fly/libs/guid-1.0.js"></script>
 <script type="text/javascript">
     var __window_vguid = null;
 
@@ -186,7 +186,7 @@
             data: {"gpt":{"targeting":{"device":"desktop","ptype":"statistics","cid":"","env":"prod"},"adConfig":{"network":{"dev":7336,"local":7336,"qa":7336,"alpha":7336,"stage":8264,"beta":8264,"prod":8264},"method":"async-inline","regions":[],"adUnits":{"intromercial":{"outOfPage":true},"skyboxTop":{"sizes":[[5,5]],"position":"top"},"skyboxPlusTop":{"sizes":[[5,5],[728,90],[970,66]],"position":"top"},"skyboxSticky":{"sizes":[[5,5]],"position":"sticky"},"skyboxLeaderSticky":{"sizes":[[5,5],[728,90],[970,66]],"position":"sticky"},"omniSkyboxSticky":{"sizes":[[5,5],[6,6]],"position":"sticky"},"omniSkyboxLeaderSticky":{"sizes":[[5,5],[728,90],[970,66],[6,6]],"position":"sticky"},"leaderPlusTop":{"sizes":[[728,90],[970,66],[970,250],[970,90]],"position":"top","eventCallbacks":{"slotRenderEnded":"leaderboardCallback"}},"leaderPlus2Bottom":{"sizes":[[728,90],[970,66]],"position":"bottom"},"leaderTop":{"sizes":[[728,90],[970,66],[970,90]],"position":"top","eventCallbacks":{"slotRenderEnded":"leaderboardCallback"}},"leaderMiddle":{"sizes":[[728,90],[970,66]],"position":"middle"},"leaderBottom":{"sizes":[[970,66],[728,90]],"position":"bottom"},"mMarqueeTop":{"sizes":[[356,365]],"position":"top"},"mRailTopLeft":{"sizes":[[170,360]],"position":"top"},"mRailBottomLeft":{"sizes":[[170,230]],"position":"bottom"},"mLeaderTop":{"sizes":[[1170,150]],"position":"top"},"mLeaderMiddle":{"sizes":[[1170,150]],"position":"middle"},"mRailTopRight":{"sizes":[[370,345]],"position":"top"},"mStoryInset":{"sizes":[[300,310]],"position":"top"},"mDropdown":{"sizes":[[220,350]],"position":"top"},"mpuBottom":{"sizes":[[300,250]],"position":"bottom","disableInitialLoad":false},"mpuMiddle":{"sizes":[[300,250]],"position":"middle"},"mpuPlusTop":{"sizes":[[300,250],[300,600]],"position":"top"},"mpuTop":{"sizes":[[300,250]],"position":"top"},"mpuTopGametracker":{"sizes":[[300,250]],"position":"top","disableInitialLoad":true,"eventCallbacks":{"slotRenderEnded":"clear20second"}},"sharethroughTop":{"sizes":[[11,11],["fluid"]],"position":"top","customTargeting":{"strnativekey":"a749ea2b"},"eventCallbacks":{"slotRenderEnded":"nativeAdContainerClear"}},"sharethroughBottom":{"sizes":[[11,11],["fluid"],[300,250]],"position":"bottom","customTargeting":{"strnativekey":"a749ea2b"},"eventCallbacks":{"slotRenderEnded":"nativeAdContainerClear"}},"sharethroughArticle":{"sizes":[[11,11],["fluid"]],"position":"top","customTargeting":{"strnativekey":"433f2831"},"eventCallbacks":{"slotRenderEnded":"nativeAdContainerClear"}},"sharethroughScoreboard":{"sizes":[[11,11],["fluid"],[300,250]],"position":"top","customTargeting":{"strnativekey":"1KzYzb2nt1prfLivSYMjVJCV"},"eventCallbacks":{"slotRenderEnded":"nativeAdContainerClear"}},"nativeHqTop":{"sizes":[[11,11],["fluid"]],"position":"top","customTargeting":{"strnativekey":"BAhUjps7CdLL2R6QfFqoXhbT"},"eventCallbacks":{"slotRenderEnded":"nativeAdContainerClear"}},"mpuHomeArenaFlex":{"sizes":[[11,11],["fluid"],[300,250]],"position":"top","customTargeting":{"strnativekey":"pHEZXrGTz8xAczhbvBryALrh"},"eventCallbacks":{"slotRenderEnded":"nativeAdContainerClear"}},"nativeArenaMiddle":{"sizes":[[11,11],["fluid"]],"position":"middle","customTargeting":{"strnativekey":"rSRFToMHkC84SmYyCbF6LsXG"},"eventCallbacks":{"slotRenderEnded":"nativeAdContainerClear"}},"nativeGtTop":{"sizes":[[11,11],["fluid"],[300,250]],"position":"top","customTargeting":{"strnativekey":"3b2acfdb"},"eventCallbacks":{"slotRenderEnded":"nativeAdContainerClear"}},"nativeStoryFlexTop":{"sizes":[[11,11],["fluid"],[300,251]],"position":"top","customTargeting":{"strnativekey":"pUtkm6PEEeEqSsKgmNRVvEGN"},"eventCallbacks":{"slotRenderEnded":"nativeAdContainerClear"}},"nativeStoryFlexInc":{"sizes":[[11,11],["fluid"],[300,250]],"position":"inc","disableInitialLoad":true,"customTargeting":{"strnativekey":"pUtkm6PEEeEqSsKgmNRVvEGN"}},"videoThumbnailTop":{"sizes":[[171,231]],"position":"top"},"marqueeTop":{"sizes":[[234,60]],"position":"top"},"hqSponsoredShelf":{"sizes":[[150,25]],"position":"top"},"gamblingPartner":{"sizes":[[8,8],["fluid"]],"position":"dynamic"},"gamblingPartnerLogo":{"sizes":[[8,8],["fluid"]],"position":"static"},"gamblingPartnerModal":{"sizes":[[8,8],["fluid"]],"position":"modal"}},"mobile":{"adUnits":{"intromercial":{"outOfPage":true},"mobileOmniSkyboxPlusSticky":{"sizes":[[5,5],[320,50],[6,6]],"position":"sticky"},"mobileOmniPlusSticky":{"sizes":[[320,50],[6,6]],"position":"sticky"},"mobileSkyboxPlusSticky":{"sizes":[[5,5],[320,50]],"position":"sticky"},"mobileHomeFlexTop":{"sizes":[[11,11],["fluid"],[300,250]],"position":"top","customTargeting":{"strnativekey":"FPbxvZ35anf9AJRvNfe6i5bj"}},"mobileHomeFlexSilentMiddle":{"sizes":[[11,11],["fluid"],[300,250]],"position":"middle","customTargeting":{"strnativekey":"4QaKVuofR1D6XYNp5djXh8m5"}},"mobileHomeFlexBottom":{"sizes":[[11,11],["fluid"],[300,250]],"position":"bottom","customTargeting":{"strnativekey":"FPbxvZ35anf9AJRvNfe6i5bj"}},"mobileHomeFlexSilentBottom2":{"sizes":[[11,11],["fluid"],[300,250]],"position":"bottom2","customTargeting":{"strnativekey":"4QaKVuofR1D6XYNp5djXh8m5"}},"mobileArenaFlexSilentMiddle":{"sizes":[[11,11],["fluid"],[300,250],[320,50]],"position":"middle","customTargeting":{"strnativekey":"p19egy6FqHCsS251t1yj2EBy"}},"mobileArenaFlexSilent":{"sizes":[[11,11],["fluid"],[300,250]],"position":"middle","customTargeting":{"strnativekey":"p19egy6FqHCsS251t1yj2EBy"}},"mobileArenaFlexSilentBottom2":{"sizes":[[11,11],["fluid"],[300,250],[320,50]],"position":"bottom2","customTargeting":{"strnativekey":"p19egy6FqHCsS251t1yj2EBy"}},"mobileFlexSilentTop":{"sizes":[[11,11],["fluid"],[300,250]],"position":"top","customTargeting":{"strnativekey":"gubJdWNSqW4KERyShJGTxkGt"}},"mobileFlexTop":{"sizes":[[300,250],[11,11],["fluid"]],"position":"top","customTargeting":{"strnativekey":"UhpLuUjohuTPZ7eAodkse53o"}},"mobileFlexInc":{"sizes":[[320,50],[300,250],[11,11],["fluid"]],"position":"inc","disableInitialLoad":true,"customTargeting":{"strnativekey":"UhpLuUjohuTPZ7eAodkse53o"}},"mobileBannerTop2":{"sizes":[[320,50]],"position":"top2"},"mpuBottom":{"sizes":[[300,250]],"position":"bottom"},"mobileMpuBottom":{"sizes":[[300,250]],"position":"bottom"},"mobileMpuBottom2":{"sizes":[[300,250]],"position":"bottom2"},"mpuMiddle":{"sizes":[[300,50]],"position":"middle"},"mpuTop":{"sizes":[[320,50]],"position":"top"},"mobileMpuTop":{"sizes":[[300,250]],"position":"top"},"mobileMpuMiddle":{"sizes":[[300,250]],"position":"middle"},"mobileMarketingMpuTop":{"sizes":[[320,100]],"position":"top"},"mobileMarketingMpuMiddle":{"sizes":[[320,100]],"position":"middle"},"mobileMarketingMpuBottom":{"sizes":[[320,100]],"position":"bottom"},"mobileNativeTop2":{"sizes":[[11,11],["fluid"]],"position":"top","customTargeting":{"strnativekey":"nJQjFMCYfivejGXoqNXYEKsY"},"eventCallbacks":{"slotRenderEnded":"nativeAdContainerClear"}},"mobileNativeTeamTop":{"sizes":[[11,11],["fluid"],[300,250]],"position":"top","customTargeting":{"strnativekey":"pjJXawoyvqmBkden6uzUT6kQ"},"eventCallbacks":{"slotRenderEnded":"nativeAdContainerClear"}},"mobileNativeGtTop":{"sizes":[[11,11],["fluid"],[300,250]],"position":"top","customTargeting":{"strnativekey":"83b0ae49"},"eventCallbacks":{"slotRenderEnded":"nativeAdContainerClear"}},"mobileNativeBottom2":{"sizes":[[11,11],["fluid"]],"position":"bottom","customTargeting":{"strnativekey":"nJQjFMCYfivejGXoqNXYEKsY"},"eventCallbacks":{"slotRenderEnded":"nativeAdContainerClear"}},"sharethroughPos2":{"sizes":[[11,11],["fluid"],[300,250]],"position":"top","customTargeting":{"strnativekey":"54ab0589"},"eventCallbacks":{"slotRenderEnded":"nativeAdContainerClear"}},"mMarqueeTop":{"sizes":[[356,365]],"position":"top"},"mobileNflnetworkTop":{"sizes":[[300,100]],"position":"top"},"mobileNflnetworkMarqueeTop":{"sizes":[[300,100]],"position":"top"},"mobileMpuTopGametracker":{"sizes":[[300,250]],"position":"top","disableInitialLoad":true,"eventCallbacks":{"slotRenderEnded":"clear20second"}},"mobileHqSponsoredShelf":{"sizes":[[150,25]],"position":"top"},"mobileGamblingPartner":{"sizes":[[8,8],["fluid"]],"position":"dynamic"},"mobileGamblingPartnerLogo":{"sizes":[[8,8],["fluid"]],"position":"static"},"gamblingPartnerModal":{"sizes":[[8,8],["fluid"]],"position":"modal"},"mobileIncontentSocial":{"sizes":[[12,12]],"position":"top"}}},"siteName":"cbssports","collapseEmptyDiv":true,"setRefreshUnfilledSlots":false,"setClearUnfilledSlots":true,"disableInitialLoad":false,"disableInitialLoadCompanions":true,"disableInitialLoadRefresh":true,"enableSingleRequest":true,"enableHeaderBidding":true,"disableClearTargetingOnInit":true,"enableRepeatedAds":true,"defaultRegion":"aw","adOrder":[],"disableAdIncrement":false,"enableYieldIntelligence":"false"},"containerId":"4443a3cb528e7","slotVars":{"network":"8264","siteName":"cbssports","collapseEmptyDiv":"1","topics":"nfl\/media\/statistics\/stats","platform":"desktop"},"adType":"gpt","adDivIds":["omni-skybox-sticky-4443a3cb528e7","leader-plus-top-4443a3cb528e7","leader-bottom-4443a3cb528e7","intromercial-4443a3cb528e7"]},"cookieName":"cbssports_ad","cookieServicePath":"\/ad\/ad-cookie\/","session":6,"subSession":4,"useFirstPageTargeting":true}
         },
         assetsVersion: {
-            version: 'fly-0322'
+            version: 'fly-0332'
         },
         device: "desktop",
         environment: 'prod',
@@ -261,7 +261,7 @@
 
                                     
                     
-<link rel="stylesheet" href="https://sportsfly.cbsistatic.com/fly-0322/bundles/sportsmediacss/css/header-footer/header-footer.desktop.css">
+<link rel="stylesheet" href="https://sportsfly.cbsistatic.com/fly-0332/bundles/sportsmediacss/css/header-footer/header-footer.desktop.css">
 
                             <div id="skybox-top-wrapper" class="skybox-top-wrapper desktop ">
         <div id="omni_skybox_sticky" class="ad-omni-skybox-sticky " data-ad="omni-skybox-sticky" data-ad-unit="omni_skybox_sticky"></div>
@@ -890,6 +890,17 @@
                             
                         <li class="nav-list-item nav-item-overflow ">
                                                                                                             
+            <a href="/nfl/draft/mock-draft/" class="">Mock Drafts</a>
+    
+                                
+                                                                                </li>
+                                                                                                                        
+                                                                                                        
+                                                                                                                                                                                                
+                                                                            
+                            
+                        <li class="nav-list-item nav-item-overflow ">
+                                                                                                            
             <a href="/fantasy/games/football/office-pool-manager/" class="">Football Pick'em</a>
     
                                 
@@ -966,7 +977,7 @@
                                                                                 </li>
                         
                                                                     
-                        <li class="nav-list-item has-dropdown the-dots total-items-22">
+                        <li class="nav-list-item has-dropdown the-dots total-items-23">
                             <span class="icon-more icon-moon-nav-more"></span>
                             <ul class="site-nav-dropdown is-the-dots is-wide">
                                                                     <li class="nav-dropdown-item nav-dropdown-overflow">
@@ -1057,6 +1068,12 @@
                                                                                     
                                                                                                                                     
             <a href="/nfl/draft/prospect-rankings/" class="">Prospect Rankings</a>
+    
+                                                                            </li>
+                                                                    <li class="nav-dropdown-item nav-dropdown-overflow">
+                                                                                    
+                                                                                                                                    
+            <a href="/nfl/draft/mock-draft/" class="">Mock Drafts</a>
     
                                                                             </li>
                                                                     <li class="nav-dropdown-item nav-dropdown-overflow">
@@ -1323,7 +1340,7 @@
                                                                                 
                                                             <li class="nav-dropdown-item">
                                                                                     
-            <a href="/watch/sec-football?ftag=CBS-16-10ada2h" class="">NCAA Football on CBS</a>
+            <a href="/watch/college-football?ftag=CBS-16-10ada2h" class="">NCAA Football on CBS</a>
     
                                 </li>
                                                                                 
@@ -1788,6 +1805,15 @@
                                                                                                                                                                         
                             
                                                                                                                                                             
+                                                                                                                                                                        
+                            
+                                                                                                                                                            
+                                                                                                                                                                        
+                            
+                                                                                                                                                            
+                                                                                                                                                                        
+                            
+                                                                                                                                                            
                                                     
                                                                         
                         
@@ -1799,6 +1825,9 @@
                     <span id="Dropdown-selectedText" class="Dropdown-selectedText">
                                                                                                                     
                                                                     Week 1
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
                                                                                                                             
                                                                                                         </span>
                     <span class="Dropdown-selectArrow icon-moon-chevron-right"></span>
@@ -1815,6 +1844,27 @@
                                                             <li class="Dropdown-listItem">
                                                                             <a class="Dropdown-link" href="/nfl/stats/leaders/live/K/2/">
                                             Week 2
+                                        </a>
+                                                                    </li>
+                                                                                                                                                                                                
+                                                                                        
+                                                            <li class="Dropdown-listItem">
+                                                                            <a class="Dropdown-link" href="/nfl/stats/leaders/live/K/3/">
+                                            Week 3
+                                        </a>
+                                                                    </li>
+                                                                                                                                                                                                
+                                                                                        
+                                                            <li class="Dropdown-listItem">
+                                                                            <a class="Dropdown-link" href="/nfl/stats/leaders/live/K/4/">
+                                            Week 4
+                                        </a>
+                                                                    </li>
+                                                                                                                                                                                                
+                                                                                        
+                                                            <li class="Dropdown-listItem">
+                                                                            <a class="Dropdown-link" href="/nfl/stats/leaders/live/K/5/">
+                                            Week 5
                                         </a>
                                                                     </li>
                                                                         </ul>
@@ -1918,6 +1968,15 @@
                                                                                                                                                                         
                             
                                                                                                                                                             
+                                                                                                                                                                        
+                            
+                                                                                                                                                            
+                                                                                                                                                                        
+                            
+                                                                                                                                                            
+                                                                                                                                                                        
+                            
+                                                                                                                                                            
                                                     
                                                                         
                         
@@ -1937,6 +1996,18 @@
                                                                                                 
                         <option id="Dropdown-mobile1-DropdownToggle-2" data-active="" value="/nfl/stats/leaders/live/K/2/">
                            Week 2
+                        </option>
+                                                                                                
+                        <option id="Dropdown-mobile1-DropdownToggle-3" data-active="" value="/nfl/stats/leaders/live/K/3/">
+                           Week 3
+                        </option>
+                                                                                                
+                        <option id="Dropdown-mobile1-DropdownToggle-4" data-active="" value="/nfl/stats/leaders/live/K/4/">
+                           Week 4
+                        </option>
+                                                                                                
+                        <option id="Dropdown-mobile1-DropdownToggle-5" data-active="" value="/nfl/stats/leaders/live/K/5/">
+                           Week 5
                         </option>
                                     </select>
                 <span class="Dropdown-selectArrow icon-moon-chevron-right"></span>
@@ -3096,35 +3167,35 @@
 
             <div class="site-footer-row">
             <ul class="site-footer-links">
-                                                            <li>
-                            <a href="https://www.cbssports.com/help" target="_blank" title="Help">Help</a>
+                                                                                                                                            <li>
+                            <a href="https://www.cbssports.com/help" title="Help">Help</a>
                         </li>
-                                                                                <li>
-                            <a href="https://www.cbssports.com/info/aboutus" target="_blank" title="About Us">About Us</a>
+                                                                                                                                                                <li>
+                            <a href="https://www.cbssports.com/info/aboutus" title="About Us">About Us</a>
                         </li>
-                                                                                <li>
+                                                                                                                                                                <li>
                             <a href="https://www.viacomcbs.com/careers/experienced" target="_blank" title="Careers">Careers</a>
                         </li>
-                                                                                <li>
-                            <a href="https://www.cbssports.com/settings/newsletters" target="_blank" title="Newsletters">Newsletters</a>
+                                                                                                                                                                <li>
+                            <a href="https://www.cbssports.com/settings/newsletters" title="Newsletters">Newsletters</a>
                         </li>
-                                                                                <li>
-                            <a href="https://www.cbssports.com/mobile" target="_blank" title="Mobile Apps">Mobile Apps</a>
+                                                                                                                                                                <li>
+                            <a href="https://www.cbssports.com/mobile" title="Mobile Apps">Mobile Apps</a>
                         </li>
-                                                                                <li>
-                            <a href="https://www.cbs.com/closed-captioning/" target="_blank" title="Closed Captioning">Closed Captioning</a>
+                                                                                                                                                                <li>
+                            <a href="https://www.cbs.com/closed-captioning/" title="Closed Captioning">Closed Captioning</a>
                         </li>
-                                                                                <li>
-                            <a href="https://www.viacomcbsprivacy.com/policy" target="_blank" title="Privacy Policy">Privacy Policy</a>
+                                                                                                                                                                <li>
+                            <a href="https://www.viacomcbsprivacy.com/policy" target="_blank" rel="nofollow" title="Privacy Policy">Privacy Policy</a>
                         </li>
-                                                                                <li>
-                            <a href="https://www.viacomcbsprivacy.com/cookies" target="_blank" title="Cookies Policy">Cookies Policy</a>
+                                                                                                                                                                <li>
+                            <a href="https://www.viacomcbsprivacy.com/cookies" target="_blank" rel="nofollow" title="Cookies Policy">Cookies Policy</a>
                         </li>
-                                                                                <li>
+                                                                                                                                                                <li>
                             <a href="http://legalterms.cbsinteractive.com/terms-of-use" target="_blank" title="Terms">Terms</a>
                         </li>
-                                                                                <li>
-                            <a href="https://www.viacomcbsprivacy.com/donotsell" target="_blank" title="Do Not Sell My Personal Information">Do Not Sell My Personal Information</a>
+                                                                                                                                                                <li>
+                            <a class="ot-sdk-show-settings" title="Do Not Sell My Personal Information">Do Not Sell My Personal Information</a>
                         </li>
                                                 </ul>
         </div>
@@ -3169,7 +3240,7 @@
 
 
 
-    <script type="text/javascript" charset="utf-8" data-requirecontext="_" data-requiremodule="jquery" src="https://sportsfly.cbsistatic.com/fly-0322/bundles/sportsmediajs/js-build/jquery.js">
+    <script type="text/javascript" charset="utf-8" data-requirecontext="_" data-requiremodule="jquery" src="https://sportsfly.cbsistatic.com/fly-0332/bundles/sportsmediajs/js-build/jquery.js">
     </script>
 
 
@@ -3179,7 +3250,7 @@
 
 
 
-    <script type="text/javascript" charset="utf-8" data-requirecontext="_" data-requiremodule="footer.lite" src="https://sportsfly.cbsistatic.com/fly-0322/bundles/sportsmediajs/js-build/footer.lite.js">
+    <script type="text/javascript" charset="utf-8" data-requirecontext="_" data-requiremodule="footer.lite" src="https://sportsfly.cbsistatic.com/fly-0332/bundles/sportsmediajs/js-build/footer.lite.js">
     </script>
 
 
@@ -3189,7 +3260,7 @@
 
 
 
-    <script async type="text/javascript" charset="utf-8" data-requirecontext="_" data-requiremodule="main.desktop" src="https://sportsfly.cbsistatic.com/fly-0322/bundles/sportsmediajs/js-build/main.desktop.js">
+    <script async type="text/javascript" charset="utf-8" data-requirecontext="_" data-requiremodule="main.desktop" src="https://sportsfly.cbsistatic.com/fly-0332/bundles/sportsmediajs/js-build/main.desktop.js">
     </script>
 
 

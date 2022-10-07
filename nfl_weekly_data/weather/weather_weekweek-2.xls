@@ -1,0 +1,902 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NFLWeather.com</title>
+
+    <meta http-equiv="content-type" content="text/xhtml; charset=utf-8" />
+    <meta http-equiv="imagetoolbar" content="no" />
+    <meta name="distribution" content="all" />
+    <meta name="robots" content="all" />
+    <meta name="resource-type" content="document" />
+    <meta name="MSSmartTagsPreventParsing" content="true" />
+    <meta name="verify-v1" content="xyXjzoRCYtgpIeSDu6dgGxwV48o6Ml0H6+577uOEyjA=" />
+    <meta name="copyright" content="NFLWeather.com" />
+    <meta name="author" content="NFLWeather.com" />
+    <meta name="description" content="Every weather report, on the hour, for every NFL football game every week." />
+    <meta name="keywords" content="NFL, Weather, Fantasy Football, NFL Weather, Weather Forecast, Forecast, NFL Stadium Conditions" />
+    <meta content="authenticity_token" name="csrf-param" />
+<meta content="5wbG7EFsLYjPIwBQ0OxLnHNzSUukEMfQDOk/BQ6Vplo=" name="csrf-token" />
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
+    <![endif]-->
+    <link href="/assets/application-a256eed8e99d395f313e7fe7af417e62.css" media="all" rel="stylesheet" type="text/css" />
+    <link href="/assets/favicon.ico" rel="shortcut icon">
+    <link href="/assets/apple-touch-icon.png" rel="apple-touch-icon">
+    <link href="/assets/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72">
+    <link href="/assets/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114">
+  </head>
+  <body>
+
+    <script src="/assets/application-c52b40606c9624afd8cdae1e15260476.js" type="text/javascript"></script>
+    
+
+    <div class="container mcont">
+
+      <div class="content-fluid">
+        <div class="row-fluid">
+          <div class="span10 visible-desktop">
+            <a href="/en/"><img alt="Logo_n" src="/assets/logo_n.png" /></a>
+            <a href="/en/"><img alt="Url_n" src="/assets/url_n.png" /></a>
+          </div>
+          <div class="span2 visible-desktop">
+            <div class="row-fluid spacer">
+            </div>
+            <div class="row-fluid spacer">
+            </div>
+          	<a href="/#{I18n.locale}/users/sign_up"><img alt="Join_us32" border="0" src="/assets/join_us32.png" /></a>
+            <!-- >
+      	    <a href="https://play.google.com/store/apps/details?id=com.nflweather.nflweatherandroid.nflweather.uwnmobile"><img alt="Android32" border="0" src="/assets/android32.png" /></a>
+      	    <a href="https://itunes.apple.com/app/nflweather/id584742623"><img alt="Ios32" border="0" src="/assets/ios32.png" /></a>
+            <-->
+            <a href="/email_this_page?link=&#x27;http://www.nflweather.com:443/en/week/2022/week-2&#x27;"><img alt="Email32" border="0" src="/assets/email32.png" /></a>
+              <a href="/en/week/2022/week-2"><img alt="En" border="0" src="/assets/en.png" /></a>
+              <a href="/es/week/2022/week-2"><img alt="Es" border="0" src="/assets/es.png" /></a>
+            <div class="row-fluid spacer">
+            </div>
+		        <div class="addthis_toolbox addthis_32x32_style addthis_default_style">
+		          <a class="addthis_button_facebook"></a>
+		          <a class="addthis_button_twitter"></a>
+		          <a class="addthis_button_google"></a>
+		          <a class="addthis_button_compact"></a>
+		        </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="row-fluid spacer">
+      </div>
+
+      <div class="navbar" style="color: #fff;">
+        <div class="navbar-inner" style="padding-left: 5px; padding-right: 5px;">
+          <div class="container">
+              <a class="btn btn-navbar" style="margin-top: 15px;float: left;padding: 4px;color: #000;text-shadow:none;"id="goback" href="javascript:history.back();">Back</a>
+              <a class="brand hidden-desktop" href="/en/" style="font-size: 12px; color: #fff;text-shadow: none;">
+                <img src="/assets/ln.png" style="height: 40px;">
+                NFLWeather.com<span style="font-size: 10px;vertical-align: text-top;"><sup>TM</sup></span></a>
+              <a class="btn btn-navbar"  style="margin-top: 15px;" data-toggle="collapse" data-target=".nav-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </a>
+              <div class="nav-collapse collapse" style="color: #fff;">
+                <ul class="nav">
+                  <li><a href="/en/">Home</a></li>
+                  <li class="divider-vertical"></li>
+                  <li><a href="/en/archive">NFLW Analytics</a></li>
+                  <li class="divider-vertical"></li>
+                  <li><a href="/en/blog/page/1">NFLW Blog</a></li>
+                  <li class="divider-vertical"></li>
+                  <li><a href="/en/widgets">NFLW Widgets</a></li>
+                  <li class="divider-vertical"></li>
+                  <li><a href="/en/team/all">Team Forecasts</a></li>
+                  <li class="divider-vertical"></li>
+                  <li><a href="/en/pickem_leader_board">Pick’Em Leaders</a></li>
+                  <li class="divider-vertical"></li>
+                  <li><a href="/en/users/sign_up" style="color: #FFD700;">Join NFLW</a></li>
+                </ul>
+              </div>
+            </div>
+
+        </div>
+      </div>
+
+      <div class="content-fluid">
+        <div class="row-fluid">
+          <div class="span10">
+            <div class="row-fluid visible-phone">
+              <div class="sec-links centered">
+                  <a href="/en/week/2022/week-2">English</a> |
+                  <a href="/es/week/2022/week-2">Spanish</a>
+                <div id="logoutp">Signed in as <b><span id="usernamep"></span></b> |
+                  <a href="/en/users/sign_out">Sign out</a> |
+                  <a href="/en/users/edit">Update Profile</a> |
+                  <a href="/my_pickem">My PickEm</a>
+                </div>
+                <div id="loginp">
+          	      <a href="/en/users/sign_in">Sign In</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+                  <a href="/en/users/sign_up"><span class="translation_missing" title="translation missing: en.create_acount">Create Acount</span></a>
+                </div>
+              </div>
+              <br />
+            </div>
+              <div id="notice_div" class="alert"></div>
+              <script type="text/javascript">
+                Flash.transferFromCookies();
+                Flash.writeDataTo('error', $('#notice_div'));
+                Flash.writeDataTo('notice', $('#notice_div'));
+              </script>
+              <div class="row-fluid hidden-phone">
+    <div class="page-header">
+      <h1>
+        NFLWeather<span style="font-size: 10px;vertical-align: text-top;line-height:20px;"><sup>TM</sup></span> Forecast Week 2 &nbsp;&nbsp;
+        <small>Updated 09/19 @ 10:00 PM EST</small>
+      </h1>
+    </div>
+  </div>
+  <div class="row-fluid hidden-desktop centered">
+    <div class="page-header">
+      <h1>
+        Week 2 Forecast
+      </h1>
+    </div>
+  </div>
+  
+<div class="row-fluid hidden-phone">
+  <div class="span2">
+    <ul class="pager">
+        <li class="previous"><a href="/en/week/2022/week-1" class="btn btn-primary">&larr;</a></li>
+    </ul>
+  </div>
+  <div class="span8 text-center">
+  	<div id="week-jump">
+      <p>
+        
+        
+            &nbsp;<a href="/en/week/2022/pre-season-week-1/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en.p1">P1</span></a>&nbsp;
+        
+        
+            &nbsp;<a href="/en/week/2022/pre-season-week-2/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en.p2">P2</span></a>&nbsp;
+        
+        
+            &nbsp;<a href="/en/week/2022/pre-season-week-3/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en.p3">P3</span></a>&nbsp;
+        </p><p>
+        
+            &nbsp;<a href="/en/week/2022/week-1/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._1"> 1</span></a>&nbsp;
+        
+        
+             &nbsp;<span class="btn btn-mini disabled btn-primary"><span class="translation_missing" title="translation missing: en._2"> 2</span></span>&nbsp;
+        
+        
+            &nbsp;<a href="/en/week/2022/week-3/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._3"> 3</span></a>&nbsp;
+        
+        
+            &nbsp;<a href="/en/week/2022/week-4/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._4"> 4</span></a>&nbsp;
+        
+        
+            &nbsp;<a href="/en/week/2022/week-5/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._5"> 5</span></a>&nbsp;
+        
+        
+            &nbsp;<a href="/en/week/2022/week-6/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._6"> 6</span></a>&nbsp;
+        
+        
+            &nbsp;<a href="/en/week/2022/week-7/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._7"> 7</span></a>&nbsp;
+        
+        
+            &nbsp;<a href="/en/week/2022/week-8/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._8"> 8</span></a>&nbsp;
+        
+        
+            &nbsp;<a href="/en/week/2022/week-9/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._9"> 9</span></a>&nbsp;
+        
+        
+            &nbsp;<a href="/en/week/2022/week-10/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._10"> 10</span></a>&nbsp;
+        
+        
+            &nbsp;<a href="/en/week/2022/week-11/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._11"> 11</span></a>&nbsp;
+        
+        
+            &nbsp;<a href="/en/week/2022/week-12/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._12"> 12</span></a>&nbsp;
+        
+        
+            &nbsp;<a href="/en/week/2022/week-13/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._13"> 13</span></a>&nbsp;
+        
+        
+            &nbsp;<a href="/en/week/2022/week-14/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._14"> 14</span></a>&nbsp;
+        
+        
+            &nbsp;<a href="/en/week/2022/week-15/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._15"> 15</span></a>&nbsp;
+        
+        
+            &nbsp;<a href="/en/week/2022/week-16/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._16"> 16</span></a>&nbsp;
+        
+        
+            &nbsp;<a href="/en/week/2022/week-17/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._17"> 17</span></a>&nbsp;
+        
+        
+            &nbsp;<a href="/en/week/2022/week-18/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._18"> 18</span></a>&nbsp;
+    </p>
+    </div>
+  </div>
+  <div class="span2">
+    <ul class="pager">
+        <li class="next" style="vertical-align: middle;"><a href="/en/week/2022/week-3" class="btn btn-primary">&rarr;</a></li>
+    </ul>
+  </div>
+</div>
+
+<div class="row-fluid hidden-desktop hidden-tablet">
+  <div class="span12">
+    <ul class="pager">
+        <li class="previous"><a href="/en/week/2022/week-1" class="btn">&larr;</a></li>
+        <li class="next" style="vertical-align: middle;"><a href="/en/week/2022/week-3" class="btn">&rarr;</a></li>
+    </ul>
+  </div>
+</div>
+  <div class="row-fluid" style="margin-top: 15px;">
+  <div class="span12">
+      <table class="footable table table-condensed toggle-arrow-alt table-hover">
+        <thead>
+          <tr>
+            <th>&nbsp;</th>
+            <th data-hide="phone,tablet" class="text-center">Away</th>
+            <th colspan="3" class="text-center">Game</th>
+            <th data-hide="phone,tablet" class="text-center">Home</th>
+            <th data-hide="phone" class="text-center">Time (ET)</th>
+            <th data-hide="phone,tablet" class="text-center">TV</th>
+            <th >&nbsp;</th>
+            <th data-hide="phone" class="text-center">Forecast</th>
+            <th data-hide="all">Extended Forecast</th>
+            <th data-hide="phone" class="text-center">Wind</th>
+            <th >&nbsp;</th>
+          </tr>
+        </thead>
+        <tbody>
+            <tr>
+              <td class="team-img">&nbsp;</td>
+              <td class="team-name text-center">
+                <a href="/en/team/Chargers">Chargers</a>
+              </td>
+              <td class="team-img"><a href="/en/team/Chargers" style="text-decoration: none; color: #454545;"><img alt="Los_angeles_2_120" src="/system/teams/logos/000/000/020/list/LOS_ANGELES_2_120.png?1511179555" /></a></td>
+              <td class="team-vs">@</td>
+              <td class="team-img"><a href="/en/team/Chiefs" style="text-decoration: none; color: #454545;"><img alt="Kansas_city_ntc120" src="/system/teams/logos/000/000/001/list/Kansas_City_NTC120.png?1377268351" /></a></td>
+              <td class="team-name  text-center">
+                <a href="/en/team/Chiefs">Chiefs</a>
+              </td>
+              <td class="text-center">
+		              <b>Final</b>: 24 - 27
+	            </td>
+              <td class="text-center">PRIME VIDEO</td>
+              <td class="text-center">
+                <img alt="Npartly-cloudy-day" src="/assets/weather/small/npartly-cloudy-day.png" />
+              </td>
+              <td class="text-center">
+                  79f Mostly Cloudy
+              </td>
+              <td>Mostly Cloudy. Mostly cloudy throughout the day.</td>
+              <td class="text-center" >8m SSE</td>
+              <td class="details text-center">
+                <a href="/en/game/2022/week-2/chargers-at-chiefs" class="btn btn-success move-rigth">Details</a>
+              </td>
+            </tr>
+            <tr>
+              <td class="team-img">&nbsp;</td>
+              <td class="team-name text-center">
+                <a href="/en/team/Jets">Jets</a>
+              </td>
+              <td class="team-img"><a href="/en/team/Jets" style="text-decoration: none; color: #454545;"><img alt="New_york_j_white_n120" src="/system/teams/logos/000/000/004/list/New_York_J_white_N120.png?1377268303" /></a></td>
+              <td class="team-vs">@</td>
+              <td class="team-img"><a href="/en/team/Browns" style="text-decoration: none; color: #454545;"><img alt="Cleveland_6n_120" src="/system/teams/logos/000/000/013/list/Cleveland_6N_120.png?1377268103" /></a></td>
+              <td class="team-name  text-center">
+                <a href="/en/team/Browns">Browns</a>
+              </td>
+              <td class="text-center">
+		              <b>Final</b>: 31 - 30
+	            </td>
+              <td class="text-center">CBS</td>
+              <td class="text-center">
+                <img alt="Clear-day" src="/assets/weather/small/clear-day.png" />
+              </td>
+              <td class="text-center">
+                  81f Clear
+              </td>
+              <td>Clear. Partly cloudy throughout the day.</td>
+              <td class="text-center" >11m SW</td>
+              <td class="details text-center">
+                <a href="/en/game/2022/week-2/jets-at-browns" class="btn btn-success move-rigth">Details</a>
+              </td>
+            </tr>
+            <tr>
+              <td class="team-img">&nbsp;</td>
+              <td class="team-name text-center">
+                <a href="/en/team/Washington">Washington</a>
+              </td>
+              <td class="team-img"><a href="/en/team/Washington" style="text-decoration: none; color: #454545;"><img alt="Redskins" src="/system/teams/logos/000/000/007/list/redskins.png?1377268235" /></a></td>
+              <td class="team-vs">@</td>
+              <td class="team-img"><a href="/en/team/Lions" style="text-decoration: none; color: #454545;"><img alt="Detroit_6n_120" src="/system/teams/logos/000/000/023/list/Detroit_6N_120.png?1377267905" /></a></td>
+              <td class="team-name  text-center">
+                <a href="/en/team/Lions">Lions</a>
+              </td>
+              <td class="text-center">
+		              <b>Final</b>: 27 - 36
+	            </td>
+              <td class="text-center">FOX</td>
+              <td class="text-center">
+                <img alt="Dome" src="/assets/weather/small/dome.png" />
+              </td>
+              <td class="text-center">
+                   DOME 
+              </td>
+              <td>Mostly Cloudy. Partly cloudy throughout the day.</td>
+              <td class="text-center" >11m SW</td>
+              <td class="details text-center">
+                <a href="/en/game/2022/week-2/washington-at-lions" class="btn btn-success move-rigth">Details</a>
+              </td>
+            </tr>
+            <tr>
+              <td class="team-img">&nbsp;</td>
+              <td class="team-name text-center">
+                <a href="/en/team/Buccaneers">Buccaneers</a>
+              </td>
+              <td class="team-img"><a href="/en/team/Buccaneers" style="text-decoration: none; color: #454545;"><img alt="Tampa_bay_ntc120" src="/system/teams/logos/000/000/009/list/Tampa_Bay_NTC120.png?1377268184" /></a></td>
+              <td class="team-vs">@</td>
+              <td class="team-img"><a href="/en/team/Saints" style="text-decoration: none; color: #454545;"><img alt="New_orleans_6n_120" src="/system/teams/logos/000/000/029/list/New_Orleans_6N_120.png?1377267792" /></a></td>
+              <td class="team-name  text-center">
+                <a href="/en/team/Saints">Saints</a>
+              </td>
+              <td class="text-center">
+		              <b>Final</b>: 20 - 10
+	            </td>
+              <td class="text-center">FOX</td>
+              <td class="text-center">
+                <img alt="Dome" src="/assets/weather/small/dome.png" />
+              </td>
+              <td class="text-center">
+                   DOME 
+              </td>
+              <td>Humid and Mostly Cloudy. Humid and partly cloudy throughout the day.</td>
+              <td class="text-center" >5m ENE</td>
+              <td class="details text-center">
+                <a href="/en/game/2022/week-2/buccaneers-at-saints" class="btn btn-success move-rigth">Details</a>
+              </td>
+            </tr>
+            <tr>
+              <td class="team-img">&nbsp;</td>
+              <td class="team-name text-center">
+                <a href="/en/team/Panthers">Panthers</a>
+              </td>
+              <td class="team-img"><a href="/en/team/Panthers" style="text-decoration: none; color: #454545;"><img alt="Carolina_6n_120" src="/system/teams/logos/000/000/027/list/Carolina_6N_120.png?1377267822" /></a></td>
+              <td class="team-vs">@</td>
+              <td class="team-img"><a href="/en/team/Giants" style="text-decoration: none; color: #454545;"><img alt="New_york_g_6n__120" src="/system/teams/logos/000/000/021/list/New_York_G_6N__120.png?1377267939" /></a></td>
+              <td class="team-name  text-center">
+                <a href="/en/team/Giants">Giants</a>
+              </td>
+              <td class="text-center">
+		              <b>Final</b>: 16 - 19
+	            </td>
+              <td class="text-center">FOX</td>
+              <td class="text-center">
+                <img alt="Clear-day" src="/assets/weather/small/clear-day.png" />
+              </td>
+              <td class="text-center">
+                  79f Clear
+              </td>
+              <td>Clear. Clear throughout the day.</td>
+              <td class="text-center" >10m WSW</td>
+              <td class="details text-center">
+                <a href="/en/game/2022/week-2/panthers-at-giants" class="btn btn-success move-rigth">Details</a>
+              </td>
+            </tr>
+            <tr>
+              <td class="team-img">&nbsp;</td>
+              <td class="team-name text-center">
+                <a href="/en/team/Patriots">Patriots</a>
+              </td>
+              <td class="team-img"><a href="/en/team/Patriots" style="text-decoration: none; color: #454545;"><img alt="New_england_6n_120" src="/system/teams/logos/000/000/002/list/New_England_6N_120.png?1377268341" /></a></td>
+              <td class="team-vs">@</td>
+              <td class="team-img"><a href="/en/team/Steelers" style="text-decoration: none; color: #454545;"><img alt="Pittsburg_ntc120" src="/system/teams/logos/000/000/014/list/Pittsburg_NTC120.png?1377268073" /></a></td>
+              <td class="team-name  text-center">
+                <a href="/en/team/Steelers">Steelers</a>
+              </td>
+              <td class="text-center">
+		              <b>Final</b>: 17 - 14
+	            </td>
+              <td class="text-center">CBS</td>
+              <td class="text-center">
+                <img alt="Clear-day" src="/assets/weather/small/clear-day.png" />
+              </td>
+              <td class="text-center">
+                  79f Clear
+              </td>
+              <td>Clear. Clear throughout the day.</td>
+              <td class="text-center" >3m NNW</td>
+              <td class="details text-center">
+                <a href="/en/game/2022/week-2/patriots-at-steelers" class="btn btn-success move-rigth">Details</a>
+              </td>
+            </tr>
+            <tr>
+              <td class="team-img">&nbsp;</td>
+              <td class="team-name text-center">
+                <a href="/en/team/Colts">Colts</a>
+              </td>
+              <td class="team-img"><a href="/en/team/Colts" style="text-decoration: none; color: #454545;"><img alt="Indianapolis_6n_120" src="/system/teams/logos/000/000/016/list/Indianapolis_6N_120.png?1377268032" /></a></td>
+              <td class="team-vs">@</td>
+              <td class="team-img"><a href="/en/team/Jaguars" style="text-decoration: none; color: #454545;"><img alt="Jacksonville_6n_120" src="/system/teams/logos/000/000/008/list/Jacksonville_6N_120.png?1377268214" /></a></td>
+              <td class="team-name  text-center">
+                <a href="/en/team/Jaguars">Jaguars</a>
+              </td>
+              <td class="text-center">
+		              <b>Final</b>: 0 - 24
+	            </td>
+              <td class="text-center">CBS</td>
+              <td class="text-center">
+                <img alt="Partly-cloudy-day" src="/assets/weather/small/partly-cloudy-day.png" />
+              </td>
+              <td class="text-center">
+                  81f Humid and Mostly Cloudy
+              </td>
+              <td>Humid and Mostly Cloudy. Rain until evening.</td>
+              <td class="text-center" >6m N</td>
+              <td class="details text-center">
+                <a href="/en/game/2022/week-2/colts-at-jaguars" class="btn btn-success move-rigth">Details</a>
+              </td>
+            </tr>
+            <tr>
+              <td class="team-img">&nbsp;</td>
+              <td class="team-name text-center">
+                <a href="/en/team/Dolphins">Dolphins</a>
+              </td>
+              <td class="team-img"><a href="/en/team/Dolphins" style="text-decoration: none; color: #454545;"><img alt="Miami_greenmask_ntc120" src="/system/teams/logos/000/000/011/list/Miami_greenmask_NTC120.png?1377268146" /></a></td>
+              <td class="team-vs">@</td>
+              <td class="team-img"><a href="/en/team/Ravens" style="text-decoration: none; color: #454545;"><img alt="Baltimore_ntc120" src="/system/teams/logos/000/000/015/list/Baltimore_NTC120.png?1377268054" /></a></td>
+              <td class="team-name  text-center">
+                <a href="/en/team/Ravens">Ravens</a>
+              </td>
+              <td class="text-center">
+		              <b>Final</b>: 42 - 38
+	            </td>
+              <td class="text-center">CBS</td>
+              <td class="text-center">
+                <img alt="Clear-day" src="/assets/weather/small/clear-day.png" />
+              </td>
+              <td class="text-center">
+                  81f Clear
+              </td>
+              <td>Clear. Clear throughout the day.</td>
+              <td class="text-center" >6m SSW</td>
+              <td class="details text-center">
+                <a href="/en/game/2022/week-2/dolphins-at-ravens" class="btn btn-success move-rigth">Details</a>
+              </td>
+            </tr>
+            <tr>
+              <td class="team-img">&nbsp;</td>
+              <td class="team-name text-center">
+                <a href="/en/team/Falcons">Falcons</a>
+              </td>
+              <td class="team-img"><a href="/en/team/Falcons" style="text-decoration: none; color: #454545;"><img alt="Atlanta_ntc120a" src="/system/teams/logos/000/000/028/list/Atlanta_NTC120A.png?1377267807" /></a></td>
+              <td class="team-vs">@</td>
+              <td class="team-img"><a href="/en/team/Rams" style="text-decoration: none; color: #454545;"><img alt="Los_angeles_ntc120" src="/system/teams/logos/000/000/006/list/Los_ANGELES_NTC120.png?1470846910" /></a></td>
+              <td class="team-name  text-center">
+                <a href="/en/team/Rams">Rams</a>
+              </td>
+              <td class="text-center">
+		              <b>Final</b>: 27 - 31
+	            </td>
+              <td class="text-center">FOX</td>
+              <td class="text-center">
+                <img alt="Dome" src="/assets/weather/small/dome.png" />
+              </td>
+              <td class="text-center">
+                   DOME 
+              </td>
+              <td>Mostly Cloudy. Partly cloudy throughout the day.</td>
+              <td class="text-center" >7m SW</td>
+              <td class="details text-center">
+                <a href="/en/game/2022/week-2/falcons-at-rams" class="btn btn-success move-rigth">Details</a>
+              </td>
+            </tr>
+            <tr>
+              <td class="team-img">&nbsp;</td>
+              <td class="team-name text-center">
+                <a href="/en/team/Seahawks">Seahawks</a>
+              </td>
+              <td class="team-img"><a href="/en/team/Seahawks" style="text-decoration: none; color: #454545;"><img alt="Seattle_6n_120a" src="/system/teams/logos/000/000/031/list/Seattle_6N_120A.png?1377267758" /></a></td>
+              <td class="team-vs">@</td>
+              <td class="team-img"><a href="/en/team/49ers" style="text-decoration: none; color: #454545;"><img alt="San_francisco_6n_120" src="/system/teams/logos/000/000/030/list/San_Francisco_6N_120.png?1377267775" /></a></td>
+              <td class="team-name  text-center">
+                <a href="/en/team/49ers">49ers</a>
+              </td>
+              <td class="text-center">
+		              <b>Final</b>: 7 - 27
+	            </td>
+              <td class="text-center">FOX</td>
+              <td class="text-center">
+                <img alt="Rain" src="/assets/weather/small/rain.png" />
+              </td>
+              <td class="text-center">
+                  68f Drizzle
+              </td>
+              <td>Drizzle. Rain throughout the day.</td>
+              <td class="text-center" >13m SSE</td>
+              <td class="details text-center">
+                <a href="/en/game/2022/week-2/seahawks-at-49ers" class="btn btn-success move-rigth">Details</a>
+              </td>
+            </tr>
+            <tr>
+              <td class="team-img">&nbsp;</td>
+              <td class="team-name text-center">
+                <a href="/en/team/Bengals">Bengals</a>
+              </td>
+              <td class="team-img"><a href="/en/team/Bengals" style="text-decoration: none; color: #454545;"><img alt="Cinncinnati_6n_120" src="/system/teams/logos/000/000/012/list/Cinncinnati_6N_120.png?1377268125" /></a></td>
+              <td class="team-vs">@</td>
+              <td class="team-img"><a href="/en/team/Cowboys" style="text-decoration: none; color: #454545;"><img alt="Dallas_6n120" src="/system/teams/logos/000/000/010/list/Dallas_6N120.png?1377268164" /></a></td>
+              <td class="team-name  text-center">
+                <a href="/en/team/Cowboys">Cowboys</a>
+              </td>
+              <td class="text-center">
+		              <b>Final</b>: 17 - 20
+	            </td>
+              <td class="text-center">CBS</td>
+              <td class="text-center">
+                <img alt="Clear-day" src="/assets/weather/small/clear-day.png" />
+              </td>
+              <td class="text-center">
+                  93f Clear
+              </td>
+              <td>Clear. Humid throughout the day.</td>
+              <td class="text-center" >7m SSE</td>
+              <td class="details text-center">
+                <a href="/en/game/2022/week-2/bengals-at-cowboys" class="btn btn-success move-rigth">Details</a>
+              </td>
+            </tr>
+            <tr>
+              <td class="team-img">&nbsp;</td>
+              <td class="team-name text-center">
+                <a href="/en/team/Texans">Texans</a>
+              </td>
+              <td class="team-img"><a href="/en/team/Texans" style="text-decoration: none; color: #454545;"><img alt="Houston_6n_120" src="/system/teams/logos/000/000/017/list/Houston_6N_120.png?1377268016" /></a></td>
+              <td class="team-vs">@</td>
+              <td class="team-img"><a href="/en/team/Broncos" style="text-decoration: none; color: #454545;"><img alt="Denver_6n_120" src="/system/teams/logos/000/000/018/list/Denver_6N_120.png?1377267995" /></a></td>
+              <td class="team-name  text-center">
+                <a href="/en/team/Broncos">Broncos</a>
+              </td>
+              <td class="text-center">
+		              <b>Final</b>: 9 - 16
+	            </td>
+              <td class="text-center">CBS</td>
+              <td class="text-center">
+                <img alt="Fog" src="/assets/weather/small/fog.png" />
+              </td>
+              <td class="text-center">
+                  80f Foggy
+              </td>
+              <td>Foggy. Foggy until evening.</td>
+              <td class="text-center" >6m NNW</td>
+              <td class="details text-center">
+                <a href="/en/game/2022/week-2/texans-at-broncos" class="btn btn-success move-rigth">Details</a>
+              </td>
+            </tr>
+            <tr>
+              <td class="team-img">&nbsp;</td>
+              <td class="team-name text-center">
+                <a href="/en/team/Cardinals">Cardinals</a>
+              </td>
+              <td class="team-img"><a href="/en/team/Cardinals" style="text-decoration: none; color: #454545;"><img alt="Arizona_whitetail_ntc120" src="/system/teams/logos/000/000/032/list/Arizona_whitetail_NTC120.png?1377267740" /></a></td>
+              <td class="team-vs">@</td>
+              <td class="team-img"><a href="/en/team/Raiders" style="text-decoration: none; color: #454545;"><img alt="Lv_b_wstripe_n_120" src="/system/teams/logos/000/000/019/list/LV_B_Wstripe_N_120.png?1599930229" /></a></td>
+              <td class="team-name  text-center">
+                <a href="/en/team/Raiders">Raiders</a>
+              </td>
+              <td class="text-center">
+		              <b>Final</b>: 29 - 23
+	            </td>
+              <td class="text-center">CBS</td>
+              <td class="text-center">
+                <img alt="Dome" src="/assets/weather/small/dome.png" />
+              </td>
+              <td class="text-center">
+                   DOME 
+              </td>
+              <td>Clear. Clear throughout the day.</td>
+              <td class="text-center" >10m SSE</td>
+              <td class="details text-center">
+                <a href="/en/game/2022/week-2/cardinals-at-raiders" class="btn btn-success move-rigth">Details</a>
+              </td>
+            </tr>
+            <tr>
+              <td class="team-img">&nbsp;</td>
+              <td class="team-name text-center">
+                <a href="/en/team/Bears">Bears</a>
+              </td>
+              <td class="team-img"><a href="/en/team/Bears" style="text-decoration: none; color: #454545;"><img alt="Chicago_ntc120" src="/system/teams/logos/000/000/026/list/Chicago_NTC120.png?1377267838" /></a></td>
+              <td class="team-vs">@</td>
+              <td class="team-img"><a href="/en/team/Packers" style="text-decoration: none; color: #454545;"><img alt="Greenbay_6n_120" src="/system/teams/logos/000/000/024/list/GreenBay_6N_120.png?1377267883" /></a></td>
+              <td class="team-name  text-center">
+                <a href="/en/team/Packers">Packers</a>
+              </td>
+              <td class="text-center">
+		              <b>Final</b>: 10 - 27
+	            </td>
+              <td class="text-center">NBC</td>
+              <td class="text-center">
+                <img alt="Npartly-cloudy-night" src="/assets/weather/small/npartly-cloudy-night.png" />
+              </td>
+              <td class="text-center">
+                  72f Mostly Cloudy
+              </td>
+              <td>Mostly Cloudy. Mostly cloudy throughout the day.</td>
+              <td class="text-center" >6m SSW</td>
+              <td class="details text-center">
+                <a href="/en/game/2022/week-2/bears-at-packers" class="btn btn-success move-rigth">Details</a>
+              </td>
+            </tr>
+            <tr>
+              <td class="team-img">&nbsp;</td>
+              <td class="team-name text-center">
+                <a href="/en/team/Titans">Titans</a>
+              </td>
+              <td class="team-img"><a href="/en/team/Titans" style="text-decoration: none; color: #454545;"><img alt="Tennessee_ntc120" src="/system/teams/logos/000/000/005/list/Tennessee_NTC120.png?1377268278" /></a></td>
+              <td class="team-vs">@</td>
+              <td class="team-img"><a href="/en/team/Bills" style="text-decoration: none; color: #454545;"><img alt="Buffalo_red_ntc120" src="/system/teams/logos/000/000/003/list/Buffalo_red_NTC120.png?1377268334" /></a></td>
+              <td class="team-name  text-center">
+                <a href="/en/team/Bills">Bills</a>
+              </td>
+              <td class="text-center">
+		              <b>Final</b>: 7 - 41
+	            </td>
+              <td class="text-center">ESPN</td>
+              <td class="text-center">
+                <img alt="Npartly-cloudy-night" src="/assets/weather/small/npartly-cloudy-night.png" />
+              </td>
+              <td class="text-center">
+                  66f Mostly Cloudy
+              </td>
+              <td>Mostly Cloudy. Rain in the morning and afternoon.</td>
+              <td class="text-center" >10m WNW</td>
+              <td class="details text-center">
+                <a href="/en/game/2022/week-2/titans-at-bills" class="btn btn-success move-rigth">Details</a>
+              </td>
+            </tr>
+            <tr>
+              <td class="team-img">&nbsp;</td>
+              <td class="team-name text-center">
+                <a href="/en/team/Vikings">Vikings</a>
+              </td>
+              <td class="team-img"><a href="/en/team/Vikings" style="text-decoration: none; color: #454545;"><img alt="Minnesota_ntc120" src="/system/teams/logos/000/000/025/list/Minnesota_NTC120.png?1377267853" /></a></td>
+              <td class="team-vs">@</td>
+              <td class="team-img"><a href="/en/team/Eagles" style="text-decoration: none; color: #454545;"><img alt="Philadelphia_6n_120" src="/system/teams/logos/000/000/022/list/Philadelphia_6N_120.png?1377267922" /></a></td>
+              <td class="team-name  text-center">
+                <a href="/en/team/Eagles">Eagles</a>
+              </td>
+              <td class="text-center">
+		              <b>Final</b>: 7 - 24
+	            </td>
+              <td class="text-center">ABC</td>
+              <td class="text-center">
+                <img alt="Npartly-cloudy-night" src="/assets/weather/small/npartly-cloudy-night.png" />
+              </td>
+              <td class="text-center">
+                  74f Partly Cloudy
+              </td>
+              <td>Partly Cloudy. Partly cloudy throughout the day.</td>
+              <td class="text-center" >3m WSW</td>
+              <td class="details text-center">
+                <a href="/en/game/2022/week-2/vikings-at-eagles" class="btn btn-success move-rigth">Details</a>
+              </td>
+            </tr>
+        </tbody>
+      </table>
+  </div>
+</div>
+
+<script type="text/javascript">
+	$(function () {
+		$('.footable').footable();
+	});
+</script>
+
+  
+<div class="row-fluid hidden-phone">
+  <div class="span2">
+    <ul class="pager">
+        <li class="previous"><a href="/en/week/2022/week-1" class="btn btn-primary">&larr;</a></li>
+    </ul>
+  </div>
+  <div class="span8 text-center">
+  	<div id="week-jump">
+      <p>
+        
+        
+            &nbsp;<a href="/en/week/2022/pre-season-week-1/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en.p1">P1</span></a>&nbsp;
+        
+        
+            &nbsp;<a href="/en/week/2022/pre-season-week-2/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en.p2">P2</span></a>&nbsp;
+        
+        
+            &nbsp;<a href="/en/week/2022/pre-season-week-3/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en.p3">P3</span></a>&nbsp;
+        </p><p>
+        
+            &nbsp;<a href="/en/week/2022/week-1/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._1"> 1</span></a>&nbsp;
+        
+        
+             &nbsp;<span class="btn btn-mini disabled btn-primary"><span class="translation_missing" title="translation missing: en._2"> 2</span></span>&nbsp;
+        
+        
+            &nbsp;<a href="/en/week/2022/week-3/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._3"> 3</span></a>&nbsp;
+        
+        
+            &nbsp;<a href="/en/week/2022/week-4/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._4"> 4</span></a>&nbsp;
+        
+        
+            &nbsp;<a href="/en/week/2022/week-5/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._5"> 5</span></a>&nbsp;
+        
+        
+            &nbsp;<a href="/en/week/2022/week-6/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._6"> 6</span></a>&nbsp;
+        
+        
+            &nbsp;<a href="/en/week/2022/week-7/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._7"> 7</span></a>&nbsp;
+        
+        
+            &nbsp;<a href="/en/week/2022/week-8/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._8"> 8</span></a>&nbsp;
+        
+        
+            &nbsp;<a href="/en/week/2022/week-9/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._9"> 9</span></a>&nbsp;
+        
+        
+            &nbsp;<a href="/en/week/2022/week-10/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._10"> 10</span></a>&nbsp;
+        
+        
+            &nbsp;<a href="/en/week/2022/week-11/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._11"> 11</span></a>&nbsp;
+        
+        
+            &nbsp;<a href="/en/week/2022/week-12/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._12"> 12</span></a>&nbsp;
+        
+        
+            &nbsp;<a href="/en/week/2022/week-13/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._13"> 13</span></a>&nbsp;
+        
+        
+            &nbsp;<a href="/en/week/2022/week-14/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._14"> 14</span></a>&nbsp;
+        
+        
+            &nbsp;<a href="/en/week/2022/week-15/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._15"> 15</span></a>&nbsp;
+        
+        
+            &nbsp;<a href="/en/week/2022/week-16/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._16"> 16</span></a>&nbsp;
+        
+        
+            &nbsp;<a href="/en/week/2022/week-17/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._17"> 17</span></a>&nbsp;
+        
+        
+            &nbsp;<a href="/en/week/2022/week-18/" class="btn btn-mini btn-primary"><span class="translation_missing" title="translation missing: en._18"> 18</span></a>&nbsp;
+    </p>
+    </div>
+  </div>
+  <div class="span2">
+    <ul class="pager">
+        <li class="next" style="vertical-align: middle;"><a href="/en/week/2022/week-3" class="btn btn-primary">&rarr;</a></li>
+    </ul>
+  </div>
+</div>
+
+<div class="row-fluid hidden-desktop hidden-tablet">
+  <div class="span12">
+    <ul class="pager">
+        <li class="previous"><a href="/en/week/2022/week-1" class="btn">&larr;</a></li>
+        <li class="next" style="vertical-align: middle;"><a href="/en/week/2022/week-3" class="btn">&rarr;</a></li>
+    </ul>
+  </div>
+</div>
+
+            <div class="row-fluid spacer">
+              &nbsp;
+            </div>
+            <div class="row-fluid visible-desktop">
+              <iframe class="container span12" style="height: 110px; border: 0px;" id="banner12"></iframe>
+            </div>
+          </div>
+
+          <div class="span2 visible-desktop">
+            <div class="row-fluid spacer">
+              &nbsp;
+            </div>
+            <div class="row-fluid">
+          	  <div class="likes" style="margin-left: 25px;">
+                <div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#appId=118132684951406&amp;xfbml=1"></script><fb:like href="http://www.facebook.com/pages/NFLWeathercom/108210065899429" send="true" layout="button_count" width="170" show_faces="false" action="like" font="tahoma"></fb:like>
+              </div>
+            </div>
+            <div class="row-fluid spacer">
+              &nbsp;
+            </div>
+      	    <div class="row-fluid">
+      	      <div class="sec-links centered">
+                <div id="logout">Signed in as <b><span id="username"></span></b><br />
+                  <a href="/en/users/sign_out">Sign out</a><br />
+                  <a href="/en/users/edit">Update Profile</a><br />
+                  <a href="/my_pickem">My PickEm</a>
+                </div>
+                <div id="login">
+          	      <a href="/en/users/sign_in">Sign In</a><br />
+                  <a href="/en/users/sign_up">Create account</a><br />
+                </div>
+              </div>
+            </div>
+            <div class="row-fluid spacer">
+              &nbsp;
+            </div>
+            <iframe class="span12" id="banner0" style="border: 0px; height: 80px; margin-left: 0px;"></iframe>
+            <div class="row-fluid spacer">
+              &nbsp;
+            </div>
+            <iframe class="span12" id="banner1" style="border: 0px; height: 630px; margin-left: 0px;"></iframe>
+            <div class="row-fluid spacer">
+              &nbsp;
+            </div>
+            <iframe class="span12" id="banner2" style="border: 0px; height: 180px; margin-left: 0px;"></iframe>
+          </div>
+        </div>
+      </div>
+
+      <div class="row-fluid visible-desktop">
+        <iframe class="container span4" style="height: 130px; border: 0px;" id="banner10"></iframe>
+        <iframe class="container span8" style="height: 130px; border: 0px;" id="banner11"></iframe>
+      </div>
+
+      <div class="row-fluid spacer">
+      </div>
+
+      <div class="row-fluid bbkg">
+        <div class="span12 centered">
+          <ul class="nav nav-pills">
+            <li><a href="/en/about">About NFLW</a></li>
+            <li><a href="/en/contact_us">Contact NFLW</a></li>
+            <li><a href="/en/link_to_nflw">Link to NFLW</a></li>
+            <li><a href="/en/web_links">Link Exchange</a></li>
+            <li><a href="/en/nflw_in_the_news/page/1">Newsroom</a></li>
+            <li><a href="/en/partners">Partners</a></li>
+            <li><a href="javascript:window.print()">Print this Page</a></li>
+          </ul>
+          <p><small>&copy; 2012 <a href="http://www.nflweather.com">NFLWeather.com<span style="font-size: 10px;vertical-align: text-top;line-height:20px;"><sup>TM</sup></span></a>
+          : Part of the USA Today Sports Media Group. &nbsp;</small></p>
+          <p><small>NFLWeather.com is not affiliated with the National Football League</small></p>
+        </div>
+      </div>
+    </div>
+
+    <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=spadey"></script>
+    <script type="text/javascript" src="/assets/mediaCheck-min.js"></script>
+
+    <script>
+    $(function() {
+      mediaCheck({
+        media: '(max-width: 480px)',
+        entry: function() {
+        }
+      });
+      mediaCheck({
+        media: '(min-width: 768px)',
+        entry: function() {
+          $("#banner0").attr("src", "/banners/Week/0");
+          $("#banner1").attr("src", "/banners/Week/1");
+          $("#banner2").attr("src", "/banners/Week/2");
+          $("#banner10").attr("src", "/banners/Week/10");
+          $("#banner11").attr("src", "/banners/Week/11");
+          $("#banner12").attr("src", "/banners/Week/12");
+        }
+      });
+    });
+    </script>
+
+    <script type="text/javascript">
+      var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+      document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+      try {
+        var pageTracker = _gat._getTracker("UA-10106584-1");
+        pageTracker._trackPageview();
+      } catch(err) {}
+    </script>
+
+  </body>
+</html>
